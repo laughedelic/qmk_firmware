@@ -46,5 +46,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #endif
 
 // Not sure if this is needed:
-#define SPLIT_USB_DETECT
-#define NO_USB_STARTUP_CHECK
+// #define SPLIT_USB_DETECT
+// #define NO_USB_STARTUP_CHECK
