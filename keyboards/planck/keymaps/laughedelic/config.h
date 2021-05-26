@@ -36,3 +36,6 @@
 
 // Most tactile encoders have detents every 4 stages
 #define ENCODER_RESOLUTION 4
+
+// Enable Unicode Hex-input
+// #define UNICODE_SELECTED_MODES UC_MAC
